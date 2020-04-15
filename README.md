@@ -1,5 +1,5 @@
 # FindShortest
-ios game
-objective-c
-url:www.nana-game.com
-video:
+ios game  
+objective-c  
+url:www.nana-game.com  
+video:  
