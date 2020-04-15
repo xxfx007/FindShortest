@@ -1,5 +1,6 @@
 # FindShortest
-ios game  
-objective-c  
+type:game
+os:ios     
+language:objective-c  
 url:www.nana-game.com  
 video:  
